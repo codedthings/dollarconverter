@@ -1,0 +1,14 @@
+#firstbody{
+    background-image: url(camax\ image1.jpg);
+    min-height:800px ;
+    position: relative;
+    opacity: 0.9999;
+}
+.navbar .nav-item .nav-link{
+    color: black;
+}
+#firstbody img{
+    height: 40px;
+    width: 70px;
+
+}
